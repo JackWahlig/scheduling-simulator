@@ -1,6 +1,8 @@
 This simulation is used to compare the performance (i.e. Elapsed Processing Time and Average Time Per Job)
 of various policies - SRPT, FIFO, Round Robin, Max Weight, Gittins (for single worker) - for a job batching scheduler. 
 
+It was completed as part of an undergraduate research project
+
 To run the simulator, several variables must be defined by the user:
 
 Number of Jobs: The initial number of jobs that each scheduler is tasked with completing (all randomly generated)
